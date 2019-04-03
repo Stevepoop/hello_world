@@ -1,5 +1,4 @@
-# hello_world
-just another repository
+# hello_world another repository
 
-hi,I'm CHEN.
+hi,I'm kong.
 I'm a student.
